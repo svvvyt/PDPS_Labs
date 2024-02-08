@@ -1,0 +1,3 @@
+﻿  my_seq.cpp
+C:\Users\user\Documents\Учеба\Магистратура ЛЭТИ\Предметы\1 семестр\Системы параллельной обработки данных\labs\tests\last\my_seq\my_seq\my_seq.cpp(62,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  my_seq.vcxproj -> C:\Users\user\Documents\Учеба\Магистратура ЛЭТИ\Предметы\1 семестр\Системы параллельной обработки данных\labs\tests\last\my_seq\my_seq\x64\Debug\my_seq.exe

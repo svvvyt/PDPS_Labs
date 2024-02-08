@@ -1,0 +1,2 @@
+C:\Users\user\Documents\Учеба\Магистратура ЛЭТИ\Предметы\Системы параллельной обработки данных\labs\lab5\lab5\x64\Debug\lab5.exe
+C:\Users\user\Documents\Учеба\Магистратура ЛЭТИ\Предметы\1 семестр\Системы параллельной обработки данных\labs\lab5\lab5\x64\Debug\lab5.exe
